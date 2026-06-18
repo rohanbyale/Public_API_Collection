@@ -16,7 +16,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 
 ## Table of Contents
 
-- [Animals](#animals) [![Animals](https://img.shields.io/badge/Animals-FF6B6B?style=for-the-badge&logo=awesomelists&logoColor=white)](#animals)
+- [Animals](#animals)
 - [Anime & Manga](#anime--manga)
 - [Art & Design](#art--design)
 - [Authentication & Identity](#authentication--identity)
