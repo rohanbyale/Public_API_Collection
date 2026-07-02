@@ -2,7 +2,7 @@
 
 Thanks for your interest in contributing! This project thrives on community additions and corrections.
 
-shjssjsjsjsjsj
+shjssjsjsjsjs
 ## How to add a new API
 
 1. Fork this repository.
