@@ -4,7 +4,7 @@
 ![Open Source](https://img.shields.io/badge/Open_Source-3B82F6?style=for-the-badge&logo=opensource&logoColor=white)
 
 A curated, categorized list of **free public APIs** for learning, side projects, hackathons, and production prototypes — no credit card required to get started.
-> ⭐ Found this useful? Star the repo and consider contributing more APIs via [CONTRIBUTING.md](CONTRIBUTING.md). hhh
+> ⭐ Found this useful? Star the repo and consider contributing more APIs via [CONTRIBUTING.md](CONTRIBUTING.md). hh
 
 ## Legend
 
