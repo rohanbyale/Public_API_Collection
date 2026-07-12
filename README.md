@@ -1,4 +1,4 @@
-ghhhh
+ghhh
 
 
 # 🆓 Free APIs Collection
