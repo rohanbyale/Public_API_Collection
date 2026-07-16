@@ -1,4 +1,4 @@
-ghhhhhhnnnnnnnnn
+ghhhhhhnnnnnnnn
 
 # 🆓 Free APIs Collection
 ![Free APIs](https://img.shields.io/badge/Free_APIs-10B981?style=for-the-badge&logo=api&logoColor=white)
