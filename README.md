@@ -1,4 +1,4 @@
-qwertyuiopasdfghjklzxcvbnmzxcvb
+qwertyuiopasdfghjklzxcvbnmzxcv
 # 🆓 Free APIs Collection
 ![Free APIs](https://img.shields.io/badge/Free_APIs-10B981?style=for-the-badge&logo=api&logoColor=white)
 ![Public Repos](https://img.shields.io/badge/Public_Repo-24292E?style=for-the-badge&logo=github&logoColor=white)
