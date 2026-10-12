@@ -221,6 +221,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Data.gov | US government open data | No | Yes | https://www.data.gov/ |
+| Invokely | Official statistics with citations; free MCP tier, paid REST data queries | Key | Yes | https://invokely.ai/docs |
 | US Census Bureau | US demographic and economic data | Key | Yes | https://www.census.gov/data/developers.html |
 | UK Government Data | UK public sector datasets | No | Yes | https://www.data.gov.uk/ |
 | World Bank | Global development and economic data | No | Yes | https://datahelpdesk.worldbank.org/knowledgebase/topics/125589 |
