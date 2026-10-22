@@ -155,6 +155,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | Fake Store API | Fake e-commerce data for testing | No | Yes | https://fakestoreapi.com/ |
 | Mockaroo | Realistic mock data generator | Key | Yes | https://www.mockaroo.com/ |
 | QR Code Generator (goQR) | Generate QR codes on the fly | No | Yes | https://goqr.me/api/ |
+| CurlShot | Screenshot or PDF of any URL or HTML via one GET request | Key | Yes | https://curlshot.com/docs |
 
 ## Dictionaries & Language
 
