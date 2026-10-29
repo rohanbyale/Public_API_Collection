@@ -136,6 +136,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | Frankfurter | Daily exchange rates from ECB | No | Yes | https://www.frankfurter.app/ |
 | Open Exchange Rates | Real-time exchange rates | Key | Yes | https://openexchangerates.org/ |
 | CurrencyAPI | Exchange rates for 150+ currencies | Key | Yes | https://currencyapi.com/ |
+| [SiftingIO](https://sifting.io/product/forex) | Real-time forex and crypto prices, historical OHLCV and live WebSocket data | Key | Yes | https://sifting.io/docs |
 
 ## Data Validation
 
