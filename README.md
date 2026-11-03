@@ -177,6 +177,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
+| Bucketlist Dream of the Day | Daily travel and experience inspiration in JSON | No | Yes | https://bucketlist.nl/brand/droom-van-de-dag.openapi.json |
 | Open Trivia DB | Trivia questions by category | No | Yes | https://opentdb.com/api_config.php |
 | TVMaze | TV show, cast, and episode data | No | Yes | https://www.tvmaze.com/api |
 | TMDb | Movies, TV shows, cast, and crew data | Key | Yes | https://www.themoviedb.org/documentation/api |
