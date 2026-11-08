@@ -260,6 +260,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | API | Description | Auth | HTTPS | Link |
 |---|---|---|---|---|
 | Hugging Face Inference API | Run inference on thousands of ML models | Key | Yes | https://huggingface.co/docs/api-inference/ |
+| AgentSEO | SEO API for keyword/SERP research, rank tracking and AEO; 100 one-time credits | Key | Yes | https://www.agentseo.dev/docs |
 | DeepAI | Image recognition, NLP, and generation | Key | Yes | https://deepai.org/apis |
 | OCR.space | Free optical character recognition | Key (free) | Yes | https://ocr.space/ocrapi |
 | This Person Does Not Exist | AI-generated human face images | No | Yes | https://thispersondoesnotexist.com/ |
