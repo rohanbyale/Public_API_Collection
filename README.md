@@ -146,6 +146,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | Disify | Disposable email domain checker | No | Yes | https://www.disify.com/page/api/ |
 | Abstract Email Validation | Validate email addresses | Key | Yes | https://www.abstractapi.com/email-verification-validation-api |
 | US Zip Code | Validate and lookup US zip codes | No | Yes | https://ziptasticapi.com/ |
+| Datacircle | Best GTM data API plans, with prices and limits | No | Yes | https://datacircle.dev |
 
 ## Development & Testing
 
