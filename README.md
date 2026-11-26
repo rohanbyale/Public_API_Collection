@@ -194,6 +194,7 @@ A curated, categorized list of **free public APIs** for learning, side projects,
 | Alpha Vantage | Stocks, forex, and crypto market data | Key | Yes | https://www.alphavantage.co/ |
 | IEX Cloud | Real-time and historical stock data | Key | Yes | https://iexcloud.io/docs/api/ |
 | Finnhub | Stock, forex, and crypto data | Key | Yes | https://finnhub.io/docs/api |
+| MacroDial | Daily macro conditions, module drivers, and factor definitions. | No | Yes | https://macrodial.org/ai-resources |
 | Polygon.io | Market data for stocks, options, forex, crypto | Key | Yes | https://polygon.io/docs |
 | Yahoo Finance (unofficial) | Stock quotes and historical data | No | Yes | https://github.com/ranaroussi/yfinance |
 
